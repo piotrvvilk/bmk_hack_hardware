@@ -1,1 +1,2 @@
-# bmk_hack_hardware
+# BMK hardware files
+
